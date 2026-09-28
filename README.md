@@ -12,8 +12,8 @@ HOME PAGE
 
 TASK LIST PAGE
 -This is where the user can click the Add Task button. And also this where the user can navigate actions like Update Status, Edit, and Delete.
-<img width="1364" height="636" alt="Screenshot 2026-09-28 222206" src="https://github.com/user-attachments/assets/254d06c3-4d3d-4b2a-b564-c8f15ec1c893" />
 <img width="1360" height="637" alt="Screenshot 2026-09-28 222018" src="https://github.com/user-attachments/assets/2dd7e34c-f776-4893-abc0-c3fbdd86eda2" />
+<img width="1364" height="636" alt="Screenshot 2026-09-28 222206" src="https://github.com/user-attachments/assets/254d06c3-4d3d-4b2a-b564-c8f15ec1c893" />
 
 ADD TASK FORM
 -This the form where the user can input task information.
